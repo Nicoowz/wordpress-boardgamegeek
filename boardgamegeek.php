@@ -2,7 +2,7 @@
 /*
 * Plugin Name: BoardGameGeek
 * Description: Insert boardgame info in a post with a shortcode
-* Version: 1.0
+* Version: 1.1
 * Author: fabrixxm
 * Author URI: https://kirgroup.com/~fabrixxm/
 * License: GPLv2 or later
